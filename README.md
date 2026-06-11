@@ -1,14 +1,18 @@
 # JuziYun 桔子云官方入口
 
-最新地址1：[juzi7878.com](https://juzi7878.com/auth/register?code=jPPo)
+最新地址1：[juzi52.net](https://juzi52.net/auth/register?code=jPPo)
 
-最新地址2：[juzi82.xyz](https://juzi82.xyz/auth/register?code=jPPo)
+最新地址2：[juzi52.xyz](https://juzi52.xyz/auth/register?code=jPPo)
 
 最新地址3：[juzi62.xyz](https://juzi62.xyz/auth/register?code=jPPo)
 
-最新地址4：[juzi71.xyz](https://juzi71.xyz/auth/register?code=jPPo)
+官方备用地址1：[juzi7878.com](https://juzi7878.com/auth/register?code=jPPo)
 
-最新地址5：[juzi610.com](https://juzi610.com/auth/register?code=jPPo)
+官方备用地址2：[juzi82.xyz](https://juzi82.xyz/auth/register?code=jPPo)
+
+官方备用地址3：[juzi71.xyz](https://juzi71.xyz/auth/register?code=jPPo)
+
+官方备用地址4：[juzi610.com](https://juzi610.com/auth/register?code=jPPo)
 
 
 ---
@@ -29,7 +33,7 @@
 
 - **优惠码：** `JJ1234`  
 - **优惠力度：** 包年 7 折  
-- **截止时间：** 2026 年 1 月 31 日
+- **截止时间：** 2026 年 6 月 30 日
 
 ---
 
